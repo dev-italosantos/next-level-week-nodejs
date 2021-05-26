@@ -21,3 +21,9 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 ## 🔶 Diagrama
 
 <img src="https://raw.githubusercontent.com/rocketseat-education/nlw-04-nodejs/main/public/diagrama.png" alt="Diagrama da aplicação" />
+
+
+## 🔗 Find me!
+- Linkedin: https://www.linkedin.com/in/italo-santos-dev/
+- Instagram: https://www.instagram.com/italosantossz/
+- Github: https://github.com/dev-italosantos
